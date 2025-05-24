@@ -5,5 +5,4 @@ This is a API based Weather Page where it fetches weather data from [weatherapi]
 - HTML
 - CSS
 - JS
-- APIs
-"# Weather-App" 
+- APIs 
